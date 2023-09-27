@@ -228,6 +228,14 @@
       </li>
     </ul>
   </ol>
+    <?php
+      const MAX=14;
+      echo "<p>EjerciciospdfTema2</p><ul>";
+      for($a=1;$a<=MAX;$a++){
+        echo "<li><a href='/ejerciciospdfTema2/$a.php' target='_blank'>$a.php</a></li>";
+      }echo "</ul>";
+    ?>
+    <br>
     <a href="/ejclase/aaaaaa.html" target="_blank">aaaaa.html</a>
     <a href="/ejclase/ejem1.php" target="_blank">ejem1.php</a>
 </body>

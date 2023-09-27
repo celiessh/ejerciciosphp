@@ -228,6 +228,7 @@
       </li>
     </ul>
   </ol>
-    <a href=""/>
+    <a href="/ejclase/aaaaaa.html" target="_blank">aaaaa.html</a>
+    <a href="/ejclase/ejem1.php" target="_blank">ejem1.php</a>
 </body>
 </html>
